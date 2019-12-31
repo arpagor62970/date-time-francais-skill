@@ -1,0 +1,3 @@
+il est {{time}}
+Aujourd'hui on est le {{date}}
+Ajourd'hui on est {{day}}
