@@ -1,3 +1,3 @@
-Il est 12h30
-La date d'aujourd'hui est la 12 septembre 2019
-On est vendredi aujourd'hui
+Il est {{time}}
+La date d'aujourd'hui est le {{date}}
+On est {{day}} aujourd'hui
